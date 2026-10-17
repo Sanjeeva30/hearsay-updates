@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Hearsay</title>
+    <link>https://github.com/Sanjeeva30/hearsay-updates</link>
+    <description>Hearsay updates</description>
+    <language>en</language>
+  </channel>
+</rss>
