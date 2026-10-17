@@ -5,5 +5,13 @@
     <link>https://github.com/Sanjeeva30/hearsay-updates</link>
     <description>Hearsay updates</description>
     <language>en</language>
+    <item>
+      <title>Hearsay 0.5.1</title>
+      <pubDate>Sat, 17 Oct 2026 11:22:43 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Sanjeeva30/hearsay-updates/releases/download/v0.5.1/Hearsay-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="fg6Bppz7zcoC3JjvI/Ennq6Q0LoFgKkARxRS6hUyvYO6m0EukEWduKiRKe5295H5LOAP20vPTEEv0XVFrwWWDg==" length="3688435"/>
+    </item>
   </channel>
 </rss>
