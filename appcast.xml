@@ -6,6 +6,14 @@
     <description>Hearsay updates</description>
     <language>en</language>
     <item>
+      <title>Hearsay 0.9.4</title>
+      <pubDate>Sun, 18 Oct 2026 05:47:57 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Sanjeeva30/hearsay-updates/releases/download/v0.9.4/Hearsay-0.9.4.dmg" type="application/octet-stream" sparkle:edSignature="mB4C/2Oj2Rztz4mHfwnMSJCGdSQEWYiPjcFdE13o5dC8WfRST7LaT3L6a8UF0q6eYIZfmIAZKOS1zqNFS1PrCA==" length="5200827"/>
+    </item>
+    <item>
       <title>Hearsay 0.9.3</title>
       <pubDate>Sun, 18 Oct 2026 05:40:59 +0000</pubDate>
       <sparkle:version>78</sparkle:version>
